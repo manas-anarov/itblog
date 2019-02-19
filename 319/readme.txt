@@ -1,3 +1,5 @@
+django rest framework get current user in serializer
+
 cd django-project
 
 source bin/activate
