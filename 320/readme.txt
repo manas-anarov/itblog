@@ -8,9 +8,10 @@ source bin/activate
 django-admin.py startproject imageproject
 cd imageproject
 
+ip addr
 python manage.py runserver
 
-http://127.0.0.1:8000/
+http://192.168.0.112:8000/
 
 python manage.py startapp image_app
 
