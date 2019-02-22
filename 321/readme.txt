@@ -1,0 +1,1 @@
+Android + Django REST Framework image upload. Android Client part 2
