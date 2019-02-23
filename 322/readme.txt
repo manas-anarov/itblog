@@ -1,5 +1,7 @@
 How to Extend Django User Model
 
+https://youtu.be/McfdS9o_Jm4
+
 cd django-project
 
 source bin/activate
