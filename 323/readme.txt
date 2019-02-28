@@ -11,7 +11,7 @@ python manage.py startapp create_app
 
 ip addr
 
-python managey runserver 192.168.0.112:8000
+python manage.py runserver 192.168.0.112:8000
 
 http://192.168.0.112:8000/post/create/
 
