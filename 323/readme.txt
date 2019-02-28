@@ -1,5 +1,5 @@
 Android + Django rest application CreateApiView. Back-end part 1.
-
+https://youtu.be/yjySErTu660
 
 cd django-project
 source bin/activate
