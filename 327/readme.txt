@@ -1,0 +1,1 @@
+Android + Django rest application DestroyApiView. Android client part 2.
