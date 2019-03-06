@@ -3,7 +3,7 @@ import { Text, View, Button} from 'react-native';
 
 export default class App extends React.Component {
   json_function = () => {
-    fetch('http://192.168.8.101:8000/post/delete/5/', {
+    fetch('http://192.168.0.112:8000/post/delete/5/', {
     method: 'DELETE',
     headers: {
     Accept: 'application/json',
